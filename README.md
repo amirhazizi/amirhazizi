@@ -57,7 +57,24 @@
 
 </p>
 
-
+<h3 align="left">Languages and Tools I Plan on Learning:</h3>
+<p align="left"> 
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+</a> 
+<a href="https://svelte.dev" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> 
+</a> 
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
+</a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+</a> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+</a> 
+</p>
 <p><img style="width:17.55rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhazizi&show_icons=true&locale=en&layout=compact" alt="amirhazizi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhazizi&show_icons=true&locale=en" alt="amirhazizi" /></p>
