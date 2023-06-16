@@ -77,7 +77,6 @@
 </p>
 <p><img style="width:17.55rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhazizi&show_icons=true&locale=en&layout=compact" alt="amirhazizi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhazizi&show_icons=true&locale=en" alt="amirhazizi" /></p>
 
 
 
